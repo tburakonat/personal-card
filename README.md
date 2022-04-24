@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Personal Card
+
+This project is part of the ReactJS course on Scrimba.
 
 Quick start:
 
